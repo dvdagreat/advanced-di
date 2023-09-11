@@ -1,0 +1,4 @@
+@injectable() 
+export class GetAllBlogs {
+  
+}
